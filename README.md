@@ -12,7 +12,7 @@ I have particular skills and experience in the following:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=blender,unity)](https://skillicons.dev)
 
