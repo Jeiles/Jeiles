@@ -5,6 +5,7 @@ My Name is Joseph Eiles, and I am a graduate of the Digital Futures (BDes) Progr
 I enjoy Web Development, Mobile Development, and Game Development.
 
 I have particular skills and experience in the following:
+
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,java,py,ts)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=angular,nextjs,react,express,nodejs)](https://skillicons.dev)
