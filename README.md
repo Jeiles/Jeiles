@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Jeiles/Jeiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Name is Joseph Eiles, and I am a graduate of the Digital Futures (BDes) Program at OCAD University and a current student of the Computer Programming and Analysis Program at Seneca Polytechnic.
+## I enjoy Web Development, Mobile Development, and Game Development.
 
-Here are some ideas to get you started:
+## Check out some of the cool stuff I worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A Weathery Journey (3D Asset and VFX Artist)
+A 3D Platformer Game where you control weather to overcome challenging puzzles.
+Link: https://josh-teichro.itch.io/a-weathery-journey
+
+- 🔭 I’m currently working on: Angular/Ionic Mobile Application
+- 🌱 I’m currently learning: .NET MAUI
+- 👯 I’m looking to collaborate on: anything, hit me up!
+- 💬 Ask me about: why Unity is my favorite Game Engine
+- 📫 How to reach me: Send me a DM!
+- ⚡ Fun fact: I have two dogs, one tells the truth, and the other... tells the truth as well (they are good boys)
