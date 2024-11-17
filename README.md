@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-## My Name is Joseph Eiles, and I am a graduate of the Digital Futures (BDes) Program at OCAD University and a current student of the Computer Programming and Analysis Program at Seneca Polytechnic.
-## I enjoy Web Development, Mobile Development, and Game Development.
-
-## Check out some of the cool stuff I worked on:
+My Name is Joseph Eiles, and I am a graduate of the Digital Futures (BDes) Program at OCAD University and a current student of the Computer Programming and Analysis Program at Seneca Polytechnic.
+I enjoy Web Development, Mobile Development, and Game Development.
 
 ## A Weathery Journey (3D Asset and VFX Artist)
 A 3D Platformer Game where you control weather to overcome challenging puzzles.
 Link: https://josh-teichro.itch.io/a-weathery-journey
 
+## A Little About Me:
 - 🔭 I’m currently working on: Angular/Ionic Mobile Application
 - 🌱 I’m currently learning: .NET MAUI
 - 👯 I’m looking to collaborate on: anything, hit me up!
