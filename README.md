@@ -22,6 +22,18 @@ A 3D Platformer Game where you control weather to overcome challenging puzzles.
 
 Link: https://josh-teichro.itch.io/a-weathery-journey
 
+## Mealkit Application (Main Developer)
+
+A full stack web application built through vanilla JS, Tailwind (DaisyUI), and HTML/ejs utilizing an Express backend. The application allows users to register an account, create/fetch/remove meal kit objects from a MongoDB database (through an admin account), and save favorite mealkits to their account.
+
+Link: https://mealkit-app.onrender.com/
+
+## Book Quest (Book Search Application) (Main Developer)
+
+A full stack web application built using the NextJS (front end) utilizing an Express backend component. Allows users to query books (by title or keyword) using a Google Books API endpoint as well as register/login to personalized accounts and save/remove favorite books to their favorite books list (stored on a MongoDB database). 
+
+Link: https://book-quest-virid.vercel.app
+
 ## A Little About Me:
 - 🔭 I’m currently working on: Angular/Ionic Mobile Application
 - 🌱 I’m currently learning: .NET MAUI
