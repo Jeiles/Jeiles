@@ -2,6 +2,8 @@
 
 My Name is Joseph Eiles, and I am a graduate of the Digital Futures (BDes) Program at OCAD University and a current student of the Computer Programming and Analysis Program at Seneca Polytechnic.
 
+You can also follow me on my LinkedIn: https://www.linkedin.com/in/joseph-eiles/
+
 I enjoy Web Development, Mobile Development, and Game Development.
 
 I have particular skills and experience in the following:
